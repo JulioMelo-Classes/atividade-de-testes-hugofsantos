@@ -1,0 +1,4 @@
+/home/hugo.santos.706/Documentos/atividade-de-testes-hugofsantos/negativos5/build/CMakeFiles/program.dir
+/home/hugo.santos.706/Documentos/atividade-de-testes-hugofsantos/negativos5/build/CMakeFiles/verify.dir
+/home/hugo.santos.706/Documentos/atividade-de-testes-hugofsantos/negativos5/build/CMakeFiles/edit_cache.dir
+/home/hugo.santos.706/Documentos/atividade-de-testes-hugofsantos/negativos5/build/CMakeFiles/rebuild_cache.dir
